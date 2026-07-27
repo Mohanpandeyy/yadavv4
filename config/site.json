@@ -1,0 +1,105 @@
+{
+  "businessName": "Yadav Medical Store 1993",
+  "brandName": "YADAV MEDICALS",
+  "tagline": "Your Trusted Healthcare Partner Since 1993",
+  "phone": "+918858876210",
+  "whatsapp": "918840202806",
+  "secondaryPhone": "+918840202806",
+  "email": "care@yadavmedicals.in",
+  "address": {
+    "line1": "Front of CHC Hospital, Sugar Mill Road",
+    "city": "Khalilabad",
+    "district": "Sant Kabir Nagar",
+    "state": "Uttar Pradesh",
+    "country": "IN",
+    "pincode": "272175"
+  },
+  "geo": { "lat": 26.7729, "lng": 83.0716 },
+  "mapsEmbed": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiAz5Hx0_CVAxUAAAAAHQAAAAAQBQ..i&sca_esv=991499350ef9206a&pvq=Cg0vZy8xMWc4cGJwcnE5Ih0KF3lhZGF2IG1lZGljYWwgc3RvcmUga2xkEAIYAw&lqi=Chd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZEjJvavVoq6AgAhaJxAAEAEQAhADGAAYARgCIhd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZJIBCHBoYXJtYWN5&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KW34d5wYJZE5MZ2F4nJqp_7h&daddr=Front+of+CHC+Hospital,+Sugar+Mill+Rd,+Khalilabad,+Banjaria+Dehat,+Uttar+Pradesh+272175",
+  "mapsDirection": "https://share.google/pPXdNVYE6krDlyEcH",
+  "hours": "Mon–Sun: 8:00 AM – 10:00 PM",
+  "url": "https://yadavmedicals.in",
+  "whatsappMessage": "Hello,\nI visited your website.\nI would like to enquire.",
+  "services": ["Medicine", "Blood Test", "Home Sample", "Health Packages", "Lab Reports", "Doctor Prescription", "Healthcare Products", "Emergency Medicines"],
+  "reviews": [
+    { "name": "Ramesh Yadav", "stars": 5, "text": "Trusted store for 20 years. Always genuine medicines and fast service." },
+    { "name": "Priya Singh", "stars": 5, "text": "Home sample collection was quick and reports came on WhatsApp same day." },
+    { "name": "Amit Verma", "stars": 5, "text": "Professional staff, fair prices, and everything available in one place." },
+    { "name": "Sunita Devi", "stars": 5, "text": "Best pharmacy near CHC Hospital. Emergency medicines always in stock." }
+  ],
+  "faqs": [
+    { "q": "Do you provide home sample collection?", "a": "Yes. Pathkind Lab home sample collection is available across Khalilabad. Book via WhatsApp or call." },
+    { "q": "Are lab reports NABL certified?", "a": "Yes, Pathkind Lab reports are processed at NABL certified laboratories with digital delivery." },
+    { "q": "Can I order medicines online?", "a": "We do not sell online. Send an enquiry on WhatsApp and collect from our store in front of CHC Hospital." },
+    { "q": "What are your opening hours?", "a": "We are open every day from 8:00 AM to 10:00 PM, including Sundays." },
+    { "q": "Do you keep emergency medicines?", "a": "Yes, emergency and life-saving medicines are stocked and prioritised at all times." }
+  ],
+  "packages": [
+    { "name": "Thyroid Profile", "price": 399, "items": ["T3", "T4", "TSH"] },
+    { "name": "CBC", "price": 299, "items": ["Complete Blood Count", "25+ Parameters"] },
+    { "name": "Vitamin Panel", "price": 899, "items": ["Vitamin D", "Vitamin B12"] },
+    { "name": "Diabetes Care", "price": 499, "items": ["HbA1c", "Fasting Sugar", "PP Sugar"] },
+    { "name": "Liver Function", "price": 599, "items": ["LFT Complete", "12 Parameters"] },
+    { "name": "Kidney Function", "price": 599, "items": ["KFT Complete", "10 Parameters"] },
+    { "name": "Full Body Checkup", "price": 1499, "items": ["90+ Tests", "Free Home Collection", "Doctor Consultation"], "featured": true }
+  ],
+  "businesses": {
+    "medicalStore": {
+      "name": "Yadav Medical Store",
+      "tagline": "Trusted Pharmacy Since 1993",
+      "description": "Complete range of medicines, OTC products, baby care, and healthcare essentials. Genuine stock, fair prices, and expert guidance.",
+      "address": "Front of CHC Hospital, Sugar Mill Road, Khalilabad, Sant Kabir Nagar, Uttar Pradesh 272175",
+      "phone": "+918858876210",
+      "whatsapp": "918840202806",
+      "email": "store@yadavmedicals.in",
+      "hours": "Mon–Sun: 8:00 AM – 10:00 PM",
+      "geo": { "lat": 26.7729, "lng": 83.0716 },
+      "mapsEmbed": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiAz5Hx0_CVAxUAAAAAHQAAAAAQBQ..i&sca_esv=991499350ef9206a&pvq=Cg0vZy8xMWc4cGJwcnE5Ih0KF3lhZGF2IG1lZGljYWwgc3RvcmUga2xkEAIYAw&lqi=Chd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZEjJvavVoq6AgAhaJxAAEAEQAhADGAAYARgCIhd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZJIBCHBoYXJtYWN5&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KW34d5wYJZE5MZ2F4nJqp_7h&daddr=Front+of+CHC+Hospital,+Sugar+Mill+Rd,+Khalilabad,+Banjaria+Dehat,+Uttar+Pradesh+272175",
+      "mapsDirection": "https://share.google/pPXdNVYE6krDlyEcH",
+      "services": ["Prescription Medicines", "OTC Medicines", "Baby Care Products", "Personal Care", "Healthcare Products", "Medical Equipment", "Emergency Medicines", "Doctor Consultation Support"],
+      "faqs": [
+        { "q": "Do you stock emergency medicines?", "a": "Yes, we maintain stock of all emergency and life-saving medicines at all times." },
+        { "q": "Can I get medicines without prescription?", "a": "OTC medicines are available without prescription. For prescription medicines, a valid doctor's prescription is required." },
+        { "q": "Do you provide home delivery?", "a": "We do not offer online ordering, but you can enquire on WhatsApp and collect from our store." }
+      ]
+    },
+    "pathkindLab": {
+      "name": "Pathkind Lab & Blood Collection",
+      "tagline": "NABL Certified Diagnostics & Blood Collection",
+      "description": "Complete pathology and blood collection services with NABL certified reports. Home sample collection, health packages, emergency collection, and digital report delivery.",
+      "address": "Front of CHC Hospital, Sugar Mill Road, Khalilabad, Sant Kabir Nagar, Uttar Pradesh 272175",
+      "phone": "+918858876210",
+      "whatsapp": "918840202806",
+      "email": "lab@yadavmedicals.in",
+      "hours": "Mon–Sun: 7:00 AM – 9:00 PM",
+      "geo": { "lat": 26.7729, "lng": 83.0716 },
+      "mapsEmbed": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiAz5Hx0_CVAxUAAAAAHQAAAAAQBQ..i&sca_esv=991499350ef9206a&pvq=Cg0vZy8xMWc4cGJwcnE5Ih0KF3lhZGF2IG1lZGljYWwgc3RvcmUga2xkEAIYAw&lqi=Chd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZEjJvavVoq6AgAhaJxAAEAEQAhADGAAYARgCIhd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZJIBCHBoYXJtYWN5&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KW34d5wYJZE5MZ2F4nJqp_7h&daddr=Front+of+CHC+Hospital,+Sugar+Mill+Rd,+Khalilabad,+Banjaria+Dehat,+Uttar+Pradesh+272175",
+      "mapsDirection": "https://share.google/pPXdNVYE6krDlyEcH",
+      "services": ["Blood Tests", "Thyroid Profile", "Diabetes Screening", "Liver Function Test", "Kidney Function Test", "Vitamin Panels", "Full Body Checkup", "Home Sample Collection", "Emergency Blood Collection"],
+      "faqs": [
+        { "q": "Are your reports NABL certified?", "a": "Yes, all Pathkind Lab reports are processed at NABL certified laboratories." },
+        { "q": "How long does it take to get reports?", "a": "Most routine tests are delivered within 24 hours. Specialized tests may take 2-3 days." },
+        { "q": "Do you provide home sample collection?", "a": "Yes, we offer free home sample collection across Khalilabad. Book via WhatsApp or call." }
+      ]
+    },
+    "bloodCollection": {
+      "name": "Apex Blood Collection",
+      "tagline": "Professional Blood Collection Services",
+      "description": "Expert blood collection services for routine and emergency tests. Trained phlebotomists, sterile equipment, and fast report delivery.",
+      "address": "Front of CHC Hospital, Sugar Mill Road, Khalilabad, Sant Kabir Nagar, Uttar Pradesh 272175",
+      "phone": "+918858876210",
+      "whatsapp": "918840202806",
+      "email": "blood@yadavmedicals.in",
+      "hours": "Mon–Sun: 7:00 AM – 9:00 PM",
+      "geo": { "lat": 26.7729, "lng": 83.0716 },
+      "mapsEmbed": "https://www.google.com/maps?vet=10CAAQoqAOahcKEwiAz5Hx0_CVAxUAAAAAHQAAAAAQBQ..i&sca_esv=991499350ef9206a&pvq=Cg0vZy8xMWc4cGJwcnE5Ih0KF3lhZGF2IG1lZGljYWwgc3RvcmUga2xkEAIYAw&lqi=Chd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZEjJvavVoq6AgAhaJxAAEAEQAhADGAAYARgCIhd5YWRhdiBtZWRpY2FsIHN0b3JlIGtsZJIBCHBoYXJtYWN5&fvr=1&cs=0&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=KW34d5wYJZE5MZ2F4nJqp_7h&daddr=Front+of+CHC+Hospital,+Sugar+Mill+Rd,+Khalilabad,+Banjaria+Dehat,+Uttar+Pradesh+272175",
+      "mapsDirection": "https://share.google/pPXdNVYE6krDlyEcH",
+      "services": ["Routine Blood Tests", "Emergency Collection", "Home Collection", "CBC", "Blood Sugar", "Hemoglobin", "Lipid Profile", "Professional Phlebotomists"],
+      "faqs": [
+        { "q": "Is home blood collection available?", "a": "Yes, our trained phlebotomists provide home blood collection services across Khalilabad." },
+        { "q": "Do you handle emergency collections?", "a": "Yes, we prioritize emergency blood collection requests and ensure fast processing." },
+        { "q": "Are your staff trained?", "a": "All our phlebotomists are professionally trained and certified with years of experience." }
+      ]
+    }
+  }
+}
